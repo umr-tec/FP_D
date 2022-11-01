@@ -29,6 +29,10 @@ namespace FPU3D_Ejemplo1
                 Console.Clear();
                 Console.WriteLine("Tu código de acceso es: 345678");
             }
+            else
+            {
+                Console.WriteLine("No podemos validar tu acceso, debes ser mayor de edad");
+            }
 
 
 
